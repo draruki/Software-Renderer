@@ -1,0 +1,79 @@
+﻿  AssimpLoader.cpp
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\AssimpLoader.cpp(52,21): warning C4018:  '<': signed/unsigned mismatch
+  Camera.cpp
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\AssimpLoader.cpp(104,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\MathUtils.h(14,24): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+  Color.cpp
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\MathUtils.h(18,23): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\MathUtils.h(14,24): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\MathUtils.h(18,23): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\Color.cpp(38,13): warning C4244:  '=': conversion from 'float' to 'Uint8', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\Color.cpp(39,13): warning C4244:  '=': conversion from 'float' to 'Uint8', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\Color.cpp(40,13): warning C4244:  '=': conversion from 'float' to 'Uint8', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\Color.cpp(41,13): warning C4244:  '=': conversion from 'float' to 'Uint8', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\Color.cpp(53,46): warning C4244:  'argument': conversion from 'float' to 'Uint8', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\Color.cpp(53,37): warning C4244:  'argument': conversion from 'float' to 'Uint8', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\Color.cpp(53,28): warning C4244:  'argument': conversion from 'float' to 'Uint8', possible loss of data
+  main.cpp
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\Color.cpp(53,19): warning C4244:  'argument': conversion from 'float' to 'Uint8', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\MathUtils.h(14,24): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\MathUtils.h(18,23): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\main.cpp(402,18): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\main.cpp(402,12): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\main.cpp(403,18): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\main.cpp(403,12): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\main.cpp(404,18): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\main.cpp(404,12): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\main.cpp(635,19): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\main.cpp(635,14): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\main.cpp(657,34): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\main.cpp(657,28): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\main.cpp(657,22): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\main.cpp(657,16): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\main.cpp(674,14): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\main.cpp(724,41): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\main.cpp(724,35): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\main.cpp(724,61): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\main.cpp(724,55): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\main.cpp(724,81): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\main.cpp(724,75): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\main.cpp(751,37): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\main.cpp(751,31): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\main.cpp(751,57): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\main.cpp(751,51): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\main.cpp(751,77): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\main.cpp(751,71): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\main.cpp(762,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\main.cpp(915,25): warning C4018:  '>=': signed/unsigned mismatch
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\main.cpp(1145,15): warning C4101:  'event': unreferenced local variable
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\main.cpp(1165,1): warning C4273:  'terminate': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_terminate.h(29,48): message :  see previous definition of 'terminate'
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\main.cpp(1268,43): warning C4305:  '=': truncation from 'double' to 'float'
+  Matrix.cpp
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\main.cpp(1312,40): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\MathUtils.h(14,24): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+  Mesh.cpp
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\MathUtils.h(18,23): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+  Model.cpp
+  PrimitiveMeshes.cpp
+  Canvas.cpp
+  Texture.cpp
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\Mesh.cpp(48,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\MathUtils.h(14,24): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\MathUtils.h(18,23): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\Texture.cpp(82,8): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+  Transform.cpp
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\Texture.cpp(83,8): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\MathUtils.h(14,24): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\MathUtils.h(18,23): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\Transform.cpp(61,15): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+  Vector.cpp
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\Transform.cpp(62,15): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\MathUtils.h(14,24): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Rasterizer\MathUtils.h(18,23): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+     Creating library C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Release\Rasterizer.lib and object C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Release\Rasterizer.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 761 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Rasterizer.vcxproj -> C:\Users\Admin\Documents\_Alla mina filer\Programmering\Rasterizer\Release\Rasterizer.exe
